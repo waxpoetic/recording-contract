@@ -114,12 +114,12 @@ $is a legal document under exclusive jurisdiction of Pennsylania courts.
 <p>&nbsp;</p>
 <p>
 __________________________________________________
-Signed by Thomas J. Scott, on behalf of Wax Poetic Records
+Signed by [NAME], on behalf of Wax Poetic Records
 </p>
 <p>&nbsp;</p>
 <p>
 __________________________________________________
-Signed by Richard [LASTNAME], on behalf of Dick Bagel
+Signed by [LEGALNAME], on behalf of [ARTIST]
 </p>
 
 #### Dated [DATE]
