@@ -3,7 +3,7 @@
 P.O. Box 1223<br>
 Philadelphia, PA 19145<br>
 (215) 100-1000<br>
-tom@waxpoeticrecords.com<br>
+artists@waxpoeticrecords.com<br>
 
 [DATE]
 
