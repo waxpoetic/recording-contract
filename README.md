@@ -1,26 +1,50 @@
-[LOGO]
+![Wax Poetic Records](http://files.waxpoeticrecords.com/images/logo.png)
 
-[ADDRESS]
-
-[PHONE]
-
-[CONTACT EMAIL]
+P.O. Box 1223
+Philadelphia, PA 19145
+(215) 100-1000
+tom@waxpoeticrecords.com
 
 [DATE]
 
-###Summary:
+### Summary:
 
-We will always do our best to fulfill your needs and meet your goals, but sometimes it is best to have a few simple things written down so that we both know what is what, who should do what and what happens if stuff goes wrong. In this contract you won't find complicated legal terms or large passages of unreadable text. We have no desire to trick you into signing something that you might later regret. We do want what's best for the safety of both parties, now and in the future.
+This contract was developed after review of many different example and
+real-world recording contracts, with a desire to make the entire process
+not only more simple but also more open. It does not contain complex
+legal terminology or large passages of unreadable, irrelevant text. We
+have no desire to trick you into signing something you shouldn't have.
+This contract is designed solely so that both the artist and the record
+label know where the money is going in the event of a payout.
 
-####In short:
+#### In short:
 
-You ([CLIENT COMPANY]) are hiring us ([MY COMPANY]) to [PROJECT NAME OR DESCRIPTION] at the hourly rate of [HOURLY RATE] per hour. Of course it's a little more complicated, but we'll get to that.
+You ([ARTIST]) are releasing original music on Wax Poetic Records. We
+choose the music to be released very carefully, and by signing this
+document you are legally binding both yourself and Wax Poetic Records to
+deliver on what is promised.
 
-###What do both parties agree to do?
+### What do both parties agree to do?
 
-As our customer, you have the power and ability to enter into this contract on behalf of your company or organization. You agree to provide us with everything that we need to complete the project including text, images and other information as and when we need it, and in the format that we ask for. You agree to review our work, provide feedback and sign-off approval in a timely manner. Deadlines work two ways and you will also be bound by any dates that we set together. You also agree to stick to the payment schedule set out at the end of this contract.
+As a recording artist, you have the power and ability to enter into this
+contract on behalf of your company or organization. You agree to provide
+technically satisfactory audio recordings of your work, defined as the
+ability to successfully pass a number of sound tests to ensure that the
+work is of the correct loudness and amplitude to be played alongside
+other releases on this label. You agree to review the finished product
+prior to release, provide feedback if necessary and sign-off approval
+in a timely manner. Deadlines work two ways and you will also be bound
+by any dates that we set together. You also agree on the terms of payout
+as described at the end of this contract.
 
-We have the experience and ability to perform the services you need from us and we will carry them out in a professional and timely manner. Along the way we will endeavor to meet all the deadlines set but we can't be responsible for a missed launch date or a deadline if you have been late in supplying materials or have not approved or signed off our work on-time at any stage. On top of this we will also maintain the confidentiality of any information that you give us.
+We have the capability to boost the reach of your music past what you
+may be able to do as a single recording artist. However, the responsible
+use of the promotion channels accessible to us requires us to ensure
+that any samples or copied material contained in the work have been licensed
+for use in a derivative work. This is especially true in the case of
+open-source releases, which can not contain any samples since the
+licensing of said samples would change by virtue of the package it's
+contained in.
 
 ###Getting down to the nitty gritty
 
@@ -70,44 +94,65 @@ Phew.
 
 ####Copyrights
 
-You guarantee to us that any elements of text, graphics, photos, designs, trademarks, or other artwork that you provide us for inclusion in the application are either owned by your good selves, or that you have permission to use them.
+You guarantee to us that any elements of text, graphics, photos, designs,
+trademarks, or other artwork that you provide us for inclusion in the release
+are either owned by your good selves, or that you have permission to use them.
 
 When we receive your final payment, copyright is automatically assigned as follows:
 
-You own the graphics and other visual elements that we create for you for this project. We will give you a copy of all files and you should store them safely as we are not required to keep them or provide any native source files that we used in making them.
+We own any graphics and other visual elements that we may create for you for this
+project. Most releases have some form of imagery attached to them, and
+if you wish to allow Wax Poetic to create the artwork related to your
+album, we will subsequently own any image likeness created for the
+project.
 
-You also own text content, photographs and other data you provided, unless someone else owns them. We own the code we produced and we retain the rights to license it how we choose or to contribute it back to the open source project which it is based on.
-We love to show off our work and share what we have learned with other people, so we also reserve the right to display and link to your completed project as part of our portfolio and to write about the project on web sites, in magazine articles and in books as well as speak about them publicly at conferences. Of course we’re happy to keep this information to ourselves until your project goes live or 6 months from the handover date, whichever is sooner.
+You own any music, graphics or other visual elements that you have
+created for this project (either prior to the signing of this document
+or afterward). In keeping with the theme of this document, basically
+anything you create for this project is still owned by you, and anything
+the label does for it is owned by the label, with the exception of the
+music itself wherein the label takes a small cut of all purchases.
 
-###Payments
+### Payment
 
-We are sure you understand how important it is as a small business that you pay the invoices that we send you promptly.  As we're also sure you'll want to stay friends, you agree to stick tightly to the following payment schedule.
+Now it's time to get down to the real reason why this contract was
+created: monetary disbursement. In accordance with our distributor,
+**Baseware**, we are given financial reports at the end of each month
+showing how much money came in from track sales as well as streaming
+audio on sites like Spotify and Rdio. We will forward relevant financial
+information to you as it becomes available to us, with a detailed list
+of the tracks you've released and how much they've made during this
+report. Also in accordance with our distributor, we can not disburse
+funds until the track has made at least $200. Please note that we
+ourselves are not allowed to take out that money, so it's not like we're
+keeping your cash or anything, we don't have it either!
 
-####Payment Schedule
+Tracks are sold on Beatport for **$1.49**, everywhere else for
+**$0.99**, and are available on streaming sites for free. The
+distributor, **Baseware**, takes 50% of this and the subsequent revenue
+is paid back to Wax Poetic Records. Wax Poetic will take 25% of this net
+revenue and pass the rest on to the artists who have signed this
+document.
 
-We bill every other week on Friday and all invoices are payable upon receipt.
+### But where is all the horrible small print?
 
-A deposit of [DEPOSIT AMOUNT] is due up front and will be subtracted from the last invoice.
+Just like a parking ticket, you cannot transfer this contract to anyone
+else without our permission. This contract stays in place and need not be
+renewed. If for some reason one part of this contract becomes invalid or
+unenforceable, the remaining parts of it remain in place.
 
-Any payments not received within 7 days will halt work until the payment is received. If payment is late twice during the project, we retain the right to ask for prepayment of hours or to end the project, whichever is deemed more fitting for the situation.
+Although the language is simple, the intentions are serious and this contract
+$is a legal document under exclusive jurisdiction of Pennsylania courts.
 
-If either party chooses to end the project, it must be done in writing. Please keep in mind that the deposit will be forfeited and any work that has been paid for up to that point will be turned over to you.
-
-###But where is all the horrible small print?
-
-Just like a parking ticket, you cannot transfer this contract to anyone else without our permission. This contract stays in place and need not be renewed. If for some reason one part of this contract becomes invalid or unenforceable, the remaining parts of it remain in place.
-
-Although the language is simple, the intentions are serious and this contract is a legal document under exclusive jurisdiction of [MY STATE] courts.
-
-###The dotted line
+### The dotted line
 
 
 __________________________________________________
-Signed by [MY NAME] and on behalf of [MY COMPANY]
+Signed by [MY NAME], on behalf of Wax Poetic Records
 
 
 __________________________________________________
-Signed by [DECISION MAKER] and on behalf of [CLIENT COMPANY]
+Signed by [DECISION MAKER], on behalf of [ARTIST]
 
 
-####Dated [DATE]
+#### Dated [DATE]
