@@ -114,7 +114,7 @@ $is a legal document under exclusive jurisdiction of Pennsylania courts.
 <p>&nbsp;</p>
 <p>
 __________________________________________________
-Signed by [NAME], on behalf of Wax Poetic Records
+Signed by [NAME], on behalf of Wax Poetic
 </p>
 <p>&nbsp;</p>
 <p>
