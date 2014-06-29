@@ -111,14 +111,15 @@ Although the language is simple, the intentions are serious and this contract
 $is a legal document under exclusive jurisdiction of Pennsylania courts.
 
 ### The dotted line
-
-
+<p>&nbsp;</p>
+<p>
 __________________________________________________
-Signed by [MY NAME], on behalf of Wax Poetic Records
-
-
+Signed by Thomas J. Scott, on behalf of Wax Poetic Records
+</p>
+<p>&nbsp;</p>
+<p>
 __________________________________________________
-Signed by [DECISION MAKER], on behalf of [ARTIST]
-
+Signed by Richard [LASTNAME], on behalf of Dick Bagel
+</p>
 
 #### Dated [DATE]
