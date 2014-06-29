@@ -108,7 +108,7 @@ renewed. If for some reason one part of this contract becomes invalid or
 unenforceable, the remaining parts of it remain in place.
 
 Although the language is simple, the intentions are serious and this contract
-$is a legal document under exclusive jurisdiction of Pennsylania courts.
+is a legal document under exclusive jurisdiction of Pennsylania courts.
 
 ### The dotted line
 <p>&nbsp;</p>
