@@ -1,9 +1,9 @@
-![Wax Poetic Records](http://files.waxpoeticrecords.com/images/logo.png)
+![Wax Poetic Records](http://assets.waxpoeticrecords.com/frontend/text-09d8e5944521c56f8e3eb648eedee7eb.jpeg)
 
-P.O. Box 1223
-Philadelphia, PA 19145
-(215) 100-1000
-tom@waxpoeticrecords.com
+P.O. Box 1223<br>
+Philadelphia, PA 19145<br>
+(215) 100-1000<br>
+tom@waxpoeticrecords.com<br>
 
 [DATE]
 
@@ -19,7 +19,7 @@ label know where the money is going in the event of a payout.
 
 #### In short:
 
-You ([ARTIST]) are releasing original music on Wax Poetic Records. We
+You ([ARTIST]) are releasing [RELEASENAME] on Wax Poetic Records. We
 choose the music to be released very carefully, and by signing this
 document you are legally binding both yourself and Wax Poetic Records to
 deliver on what is promised.
