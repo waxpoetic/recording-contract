@@ -46,53 +46,19 @@ open-source releases, which can not contain any samples since the
 licensing of said samples would change by virtue of the package it's
 contained in.
 
-###Getting down to the nitty gritty
+### Getting down to the nitty gritty
 
-####What we need from you
+A lot of this is actually dictated by our distribution company and
+companies used as infrastructure to support the promotion of your work.
 
-Below is a list of items we’ll need up front from you. Every project is slightly different, so there may be things we’ve missed from this list, but we will let you know as soon as we’re able if we’ve forgotten something we need.
+#### What we need from you
 
-* [LIST OF NEEDS] *includes credentials, access to any necessary services or assets, etc*
+The only thing that is needed from the artist is
+technically-satisfactory audio files in WAV format, at 16bit and
+44.100kHz quality, as required by most retail stores and CD
+manufacturers.
 
-####Browser Compatibility
-We have agreed to test our code in IE7+ as well as the latest releases of Firefox, Safari, and Chrome. Additionally we test on mobile Safari and mobile Chrome (iOS devices, Android devices). If you need browsers other than those listed tested, please provide us with a list of the browsers and devices. Testing additional browsers requires more testing time as well as potentially needing to code for that specific browser.
-We code everything with progressive enhancement in mind. This means that modern browsers may show slight differences to older browsers (such as text and box shadows, rounded corners, etc) based on what a browser is able to render. Any changes will not affect the user experience.
-
-####Testing
-We write tests before we write our code, which allows us to make sure that all required functionality is not only present, but works no matter how often we change things around. If your employees or other contractors will be working on the project along side us, we require that they also write tests for all code they produce to make sure we are all on the same page and not stepping on each others toes.
-
-####Version Control
-Git allows us to keep track of all changes that happen in your application. This way, if a bug is introduced we can quickly find where it was added and roll back to the previous bug-free state while we fix things up! We require code be under version control so we can work on your application with your employees or other contractors without worrying that we may be undoing or overwriting each others changes.
-
-####Timeline
-This project is scheduled to begin [START DATE] and will last a [PROJECT DURATION].
-Below is the milestone schedule:
-
-* [MILESTONE NAME, # DAYS REQUIRED]
-
-This contract will be declared complete when all work completed has been paid in full.
-
-####Additional development
-Any additional development needed above and beyond what we have agreed to here must be accompanied by an additional contract which we will be happy to provide upon request. We retain the right to refuse additional work that is not specifically outlined in this document.
-
-####Contact
-All communications will be made during regular business hours (Monday-Friday, 9am-5pm CST, excluding holidays) and we will return any contact requests within one business day unless we notify you ahead of time that we will be out of the office. Of course we understand that emergencies do arise, so in the case of one know that our hours will be billed at time and a half. We appreciate communication in a text-based medium, but understand that not all discussions are easily done this way. We’re happy to speak to you on the phone, over Skype/Google Hangout, or in person if you are in the [MY CITY] area, keeping in mind that any decisions that are made will be written down and require your written approval.
-
-As we value your time as well as our own, we ask that all meetings be scheduled a minimum of two business days in advance and be accompanied by an agenda so that we can be fully prepared. If we are unable to attend a meeting at your suggested time, we will be happy to provide two times that will work for us. Meetings must start and end on or before the time allotted and will be charged for whether you attend or not.
-
-####Project Management
-If you do not have a preferred project management tool, we will provide you with a login for ours where you will be able to see the status of the project down to the specific task, so you will always be kept up to date. We’ll be relying on you to participate by answering our questions, stating your approval, requesting changes, and verifying completeness through the tool as well. We ask for a one business day turnaround time on responses so we can keep things moving along at a pace that will allow us to hit the milestones we decided on together. 
-To keep the project organized and the management of it easier, we prefer not to communicate any of the information stated above over ordinary email.
-
-###Legal stuff
-
-Although we test extensively, we can't guarantee that the functions contained in any application will always be error-free and so we can't be liable to you or any third party for damages, including lost profits, lost savings or other incidental, consequential or special damages arising out of the operation of or inability to operate this application and any other web pages, even if you have advised us of the possibilities of such damages.
-
-If any provision of this agreement shall be unlawful, void, or for any reason unenforceable, then that provision shall be deemed severable from this agreement and shall not affect the validity and enforceability of any remaining provisions.
-
-Phew.
-
-####Copyrights
+#### Copyrights
 
 You guarantee to us that any elements of text, graphics, photos, designs,
 trademarks, or other artwork that you provide us for inclusion in the release
